@@ -1,5 +1,5 @@
 # 2018fall
-組倉儲
+倉儲
 
 http://mdecourse.github.io/2018fall/
 
