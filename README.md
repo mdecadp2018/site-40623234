@@ -1,10 +1,8 @@
 # 2018fall
-倉儲
+個人倉儲: https://github.com/mdecadp2018/site-40623234
 
-http://mdecourse.github.io/2018fall/
+網站: https://mdecadp2018.github.io/site-40623234/content/index.html
 
-分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
+網誌: https://mdecadp2018.github.io/site-40623234/blog/index.html
 
-設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
-
-cpgx 網站: https://cpgx.kmol.info
+簡報: https://mdecadp2018.github.io/site-40623234/reveal/index.html#
