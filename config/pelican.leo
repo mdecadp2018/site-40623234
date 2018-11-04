@@ -110,6 +110,86 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20180423103656.1">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
+<t tx="leo.20181029112119.1">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
+<t tx="leo.20181029112120.1">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
+<t tx="leo.20181029112125.1">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
+<t tx="leo.20181029112126.1">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
+<t tx="leo.20181029112126.2">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
+<t tx="leo.20181029112127.1">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
+<t tx="leo.20181029112127.2">@language md
+---
+Title: 2018 Fall 分組網誌
+Date: 2018-09-10 11:00
+Category: Misc
+Tags: 2018Fall
+Slug: 2018-Fall-Project-Blog
+Author: NFUMDE
+---
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
