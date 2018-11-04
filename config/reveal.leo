@@ -39,7 +39,7 @@
 <v t="leo.20181104225232.3" a="E"><vh>封面投影片5</vh>
 <v t="leo.20181104225232.4"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181104225233.1"><vh>封面投影片6</vh>
+<v t="leo.20181104225233.1" a="E"><vh>封面投影片6</vh>
 <v t="leo.20181104225233.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181104230000.1" a="E"><vh>封面投影片7</vh>
@@ -271,6 +271,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20181104225226.2">## week1
+
 ###2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
 
 
@@ -285,6 +286,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20181104225231.2">##week2
+
 ###將網誌、投影片由網路git clone下來
 </t>
 <t tx="leo.20181104225232.1">&lt;section data-markdown&gt;
@@ -297,6 +299,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20181104225232.2">## week3
+
 ###中秋節放假
 
 </t>
@@ -310,6 +313,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20181104225232.4">## week4
+
 ###開始學習 Onshape 了
 </t>
 <t tx="leo.20181104225233.1">&lt;section data-markdown&gt;
