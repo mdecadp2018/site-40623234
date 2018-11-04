@@ -66,13 +66,6 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
-<v t="leo.20181029112119.1"><vh>@edit 20180917.md</vh></v>
-<v t="leo.20181029112120.1"><vh>@edit 20180924.md</vh></v>
-<v t="leo.20181029112125.1"><vh>@edit 20181001.md</vh></v>
-<v t="leo.20181029112126.1"><vh>@edit 20181008.md</vh></v>
-<v t="leo.20181029112126.2"><vh>@edit 20181015.md</vh></v>
-<v t="leo.20181029112127.1"><vh>@edit 20181022.md</vh></v>
-<v t="leo.20181029112127.2"><vh>@edit 20181029.md</vh></v>
 </v>
 </v>
 </v>
@@ -112,81 +105,11 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20180423103656.1">@language md
 ---
-Title: 2018 Fall 分組網誌
+Title: 2018 Fall 分組網誌0910
 Date: 2018-09-10 11:00
 Category: Misc
 Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
-<t tx="leo.20181029112119.1">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
-<t tx="leo.20181029112120.1">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
-<t tx="leo.20181029112125.1">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
-<t tx="leo.20181029112126.1">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
-<t tx="leo.20181029112126.2">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
-<t tx="leo.20181029112127.1">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
-<t tx="leo.20181029112127.2">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
+Slug: 2018-Fall-Project-Blog-1
 Author: NFUMDE
 ---
 &lt;!-- PELICAN_END_SUMMARY --&gt;</t>
