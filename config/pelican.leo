@@ -31,7 +31,7 @@
 <v t="leo.20170709015940.1"><vh>近端</vh></v>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
+<v t="yen.20170224232341.1"><vh>編輯 template</vh>
 <v t="leo.20180115093448.1" a="E"><vh>@path theme/attila/templates</vh>
 <v t="leo.20180715212936.1"><vh>@edit article.html</vh></v>
 <v t="leo.20180115093536.1"><vh>@edit base.html</vh></v>
@@ -53,7 +53,7 @@
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
 </v>
 </v>
-<v t="leo.20170710015511.1" a="E"><vh>編輯 plugin</vh>
+<v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1" a="E"><vh>@path plugin</vh>
 <v t="leo.20170710015523.2" a="E"><vh>@path tipue_search</vh>
 <v t="leo.20170710015523.3"><vh>@edit tipue_search.py</vh></v>
@@ -62,17 +62,25 @@
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path markdown</vh>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
-<v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
-<v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
-</v>
-</v>
-</v>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
+<v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
+<v t="leo.20180115115910.1" a="E"><vh>2018</vh>
+<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
+<v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181011164214.1"><vh>@edit 20180910.md</vh></v>
+<v t="leo.20181101154657.1"><vh>@edit 20180917.md</vh></v>
+<v t="leo.20181101154718.1"><vh>@edit 20180924.md</vh></v>
+<v t="leo.20181101154723.1"><vh>@edit 20181001.md</vh></v>
+<v t="leo.20181101154731.1"><vh>@edit 20181008.md</vh></v>
+<v t="leo.20181101154735.1"><vh>@edit 20181015.md</vh></v>
+<v t="leo.20181101154739.1"><vh>@edit 20181022.md</vh></v>
+<v t="leo.20181101154743.1"><vh>@edit 20181029.md</vh></v>
+</v>
+</v>
+</v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
@@ -103,16 +111,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20180423103656.1">@language md
----
-Title: 2018 Fall 分組網誌0910
-Date: 2018-09-10 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog-1
-Author: NFUMDE
----
-&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
