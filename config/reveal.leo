@@ -21,11 +21,8 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20181104225225.1" a="E"><vh>封面投影片1</vh>
-<v t="leo.20181104225225.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181104225226.1" a="E"><vh>封面投影片2</vh>
 <v t="leo.20181104225226.2"><vh>封面投影片內容</vh></v>
@@ -240,27 +237,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104225225.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104225225.2">## 2018Fall 分組網際簡報
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20181104225226.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -272,7 +248,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181104225226.2">## week1
 
-###2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
+### 2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
 
 
 </t>
@@ -285,9 +261,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104225231.2">##week2
+<t tx="leo.20181104225231.2">## week2
 
-###將網誌、投影片由網路git clone下來
+### 將網誌、投影片由網路git clone下來
 </t>
 <t tx="leo.20181104225232.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -300,7 +276,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181104225232.2">## week3
 
-###中秋節放假
+### 中秋節放假
 
 </t>
 <t tx="leo.20181104225232.3">&lt;section data-markdown&gt;
@@ -314,7 +290,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181104225232.4">## week4
 
-###開始學習 Onshape 了
+### 開始學習 Onshape 了
 </t>
 <t tx="leo.20181104225233.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -359,8 +335,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20181104230002.2">## week8
 
 ### 講述什麼雲端
-###如何應用Onshape
-###可以透過 Python 3 程式驅動的 FreeCAD
+
+### 如何應用Onshape
+
+### 可以透過 Python 3 程式驅動的 FreeCAD
 
 
 </t>
