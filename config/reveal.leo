@@ -45,6 +45,12 @@
 <v t="leo.20181104230002.1" a="E"><vh>封面投影片8</vh>
 <v t="leo.20181104230002.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20190106211925.1" a="E"><vh>封面投影片10</vh>
+<v t="leo.20190106211925.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190106212418.1" a="E"><vh>封面投影片15</vh>
+<v t="leo.20190106212418.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -139,7 +145,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[40623234 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -339,6 +345,44 @@ Created by [KMOLab](http://lab.kmol.info/)
 ### 如何應用Onshape
 
 ### 可以透過 Python 3 程式驅動的 FreeCAD
+
+
+</t>
+<t tx="leo.20190106211925.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106211925.2">## week10~14
+
+### 學習使用Onshape
+
+### 了解Onshape各功能
+
+###分組討論專題
+
+
+</t>
+<t tx="leo.20190106212418.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106212418.2">## week15~17
+
+### 小組分工合作完成專題
+
+
+
+
 
 
 </t>
