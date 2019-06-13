@@ -21,35 +21,26 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181104225226.1" a="E"><vh>封面投影片2</vh>
 <v t="leo.20181104225226.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181104225231.1" a="E"><vh>封面投影片3</vh>
-<v t="leo.20181104225231.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20190614005817.1" a="E"><vh>封面投影片3</vh>
+<v t="leo.20190614005817.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181104225232.1" a="E"><vh>封面投影片4</vh>
-<v t="leo.20181104225232.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20190614005820.1" a="E"><vh>封面投影片4</vh>
+<v t="leo.20190614005820.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181104225232.3" a="E"><vh>封面投影片5</vh>
-<v t="leo.20181104225232.4"><vh>封面投影片內容</vh></v>
+<v t="leo.20190614011657.1" a="E"><vh>封面投影片5</vh>
+<v t="leo.20190614011657.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181104225233.1" a="E"><vh>封面投影片6</vh>
-<v t="leo.20181104225233.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20190614012926.1" a="E"><vh>封面投影片6</vh>
+<v t="leo.20190614012926.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181104230000.1" a="E"><vh>封面投影片7</vh>
-<v t="leo.20181104230000.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20181104230002.1" a="E"><vh>封面投影片8</vh>
-<v t="leo.20181104230002.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190106211925.1" a="E"><vh>封面投影片10</vh>
-<v t="leo.20190106211925.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190106212418.1" a="E"><vh>封面投影片15</vh>
-<v t="leo.20190106212418.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20190614015605.1" a="E"><vh>封面投影片7</vh>
+<v t="leo.20190614015605.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -145,7 +136,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[40623234 分組網誌](./../blog/index.html)
+[40623234 網誌](./../blog/index.html)
 
 
 </t>
@@ -252,13 +243,13 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104225226.2">## week1
+<t tx="leo.20181104225226.2">## week4~week5
 
-### 2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
-
+### 將自己組別網誌clone  https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g4 下來到自自己的隨身碟，然後在隨身碟中裝入kungit這項指令，讓我們能在網上推送資料，順便進行分組
+### 用vrep模擬試作範例，讓球型車裝上感測器後能夠前進後退
 
 </t>
-<t tx="leo.20181104225231.1">&lt;section data-markdown&gt;
+<t tx="leo.20190614005817.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -267,11 +258,14 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104225231.2">## week2
+<t tx="leo.20190614005817.2">## week6~week8
 
-### 將網誌、投影片由網路git clone下來
+### 完成BubbleRob tutorial的模擬
+### 將畫好的手足球立體圖放入vrep，並裝上旋轉軸
+
+
 </t>
-<t tx="leo.20181104225232.1">&lt;section data-markdown&gt;
+<t tx="leo.20190614005820.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -280,12 +274,14 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104225232.2">## week3
+<t tx="leo.20190614005820.2">## week9~week10
 
-### 中秋節放假
+### 校正旋轉軸的位置，讓旋轉軸能根桿子對齊
+### 製作手足球，將前幾周放上去的旋轉軸動起來
+
 
 </t>
-<t tx="leo.20181104225232.3">&lt;section data-markdown&gt;
+<t tx="leo.20190614011657.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -294,11 +290,14 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104225232.4">## week4
+<t tx="leo.20190614011657.2">## week11~week12
 
-### 開始學習 Onshape 了
+### 開始製作人對人的手足球，並能讓其中一個足球員做出能用鍵盤操控後達到踢球效果
+### 用作出來的足球員的程式複製到其他足球員上，讓其他足球員也具有手動踢球效果
+
+
 </t>
-<t tx="leo.20181104225233.1">&lt;section data-markdown&gt;
+<t tx="leo.20190614012926.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -307,13 +306,14 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104225233.2">## week5、6
+<t tx="leo.20190614012926.2">## week13~week14
 
-### 用Onshape做不同題目
+### 開始製作人對機器手足球，將其中兩個對立的足球員分別設計手動跟機器人
+### 完成機器人對球的感測和移動，完成其餘足球員機器人的程式
 
 
 </t>
-<t tx="leo.20181104230000.1">&lt;section data-markdown&gt;
+<t tx="leo.20190614015605.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -322,67 +322,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181104230000.2">## week7
+<t tx="leo.20190614015605.2">## week15~week16
 
-### Github 無法登入
-
-
-
-</t>
-<t tx="leo.20181104230002.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104230002.2">## week8
-
-### 講述什麼雲端
-
-### 如何應用Onshape
-
-### 可以透過 Python 3 程式驅動的 FreeCAD
-
-
-</t>
-<t tx="leo.20190106211925.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106211925.2">## week10~14
-
-### 學習使用Onshape
-
-### 了解Onshape各功能
-
-###分組討論專題
-
-
-</t>
-<t tx="leo.20190106212418.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106212418.2">## week15~17
-
-### 小組分工合作完成專題
-
-
-
-
+### 完成自動送球機構
+### 機器人對機器人沒做出來
 
 
 </t>
